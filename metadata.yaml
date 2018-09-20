@@ -1,11 +1,14 @@
 _repo: Tierras-Solares-Obras-Completas-Vol-III_52857
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ochoa, Enrique
     alias: Ochoa, Enrique C.
     gutenberg_agent_id: '44413'
     url: http://www.gutenberg.org/2009/agents/44413
+covers:
+- cover_type: archival
+  image_path: 52857-h/images/cover.jpg
 creator:
   author:
     agent_name: Darío, Rubén
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31590
     wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52857#Tierras-Solares-Obras-Completas-Vol-III
 gutenberg_issued: '2016-08-20'
 gutenberg_type: Text
 identifiers:
