@@ -1,0 +1,40 @@
+_repo: Tierras-Solares-Obras-Completas-Vol-III_52857
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ochoa, Enrique
+    alias: Ochoa, Enrique C.
+    gutenberg_agent_id: '44413'
+    url: http://www.gutenberg.org/2009/agents/44413
+creator:
+  author:
+    agent_name: Darío, Rubén
+    aliases:
+    - Sarmiento, Felix Ruben Garcia
+    - Sarmiento, Félix Rubén García
+    - García Sarmiento, Félix Rubén
+    - Dario, Ruben
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+description: ''
+gutenberg_issued: '2016-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52857'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Andalusia (Spain) -- Description and travel'
+- !lcc 'PQ'
+- !lcsh 'Darío, Rubén, 1867-1916 -- Travel -- Spain -- Andalusia'
+- !lcsh 'Darío, Rubén, 1867-1916 -- Travel -- Europe'
+- !lcsh 'Authors, Nicaraguan -- 20th century -- Travel'
+- !lcsh 'Europe -- Description and travel'
+- GITenberg
+title: "Tierras Solares\r\nObras Completas Vol. III"
+url: http://www.gutenberg.org/ebooks/52857
